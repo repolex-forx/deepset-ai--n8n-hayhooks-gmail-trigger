@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "deepset-ai",
+  "repo": "n8n-hayhooks-gmail-trigger",
+  "versions": [
+    {
+      "commit": "4f7b2d76e2600cfd1e460e982beed8395ef8cb31",
+      "parsed_at": "2026-11-08T06:03:23.063093+00:00",
+      "filetree": "filetree/4f7b2d76e2600cfd1e460e982beed8395ef8cb31.nq.gz",
+      "blobs": [
+        "blob/0d666e01e04848f1ad211b8cd2b41bde57b8b415.nq.gz",
+        "blob/b011ca4fbae2f2a042f2ef6dc69d1d552b024e91.nq.gz",
+        "blob/5f8350913b300ba03727ee056fbc93038b9f43e0.nq.gz",
+        "blob/f142498d754c2a92acac279c1f6c0d3a6dd109bb.nq.gz",
+        "blob/30bdc0c8f4ae7422d736212c4d60bf8f99f14bc3.nq.gz",
+        "blob/cd6177338082962e3d269e702d82de38361c5533.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
